@@ -7,9 +7,25 @@ A small, fast desktop utility that gives you **two live sliders** in one window:
 
 Built with **YAD + Redshift** for people who want practical screen controls without opening system settings every time.
 
-## Screenshot
+## Screenshots
 
-![Brightness + Night Light screenshot](screenshot.png)
+**Panel preference view**  
+The launcher/settings setup used to add and pin the tool.
+<p align="center">
+  <img src="screenshots/panel-preference-screenshot.png" alt="Panel preference" />
+</p>
+
+**Panel icon view**  
+How the Brightness + Night Light icon appears in the panel once added.
+<p align="center">
+  <img src="screenshots/icon-in-panel-screenshot.png" alt="Icon in panel" />
+</p>
+
+**Flyout view**  
+The live control window with brightness and night light sliders.
+<p align="center">
+  <img src="screenshots/flyout-screenshot.png" alt="Flyout" />
+</p>
 
 ## Why This Exists
 
@@ -120,6 +136,8 @@ If you report a bug, include:
 ## Author
 
 `namar0x0309`
+
+Made with gratitude 🤲
 
 ## License
 
